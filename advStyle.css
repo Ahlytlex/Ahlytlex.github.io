@@ -1,0 +1,47 @@
+#sWrapper{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    background-color: rgb(220, 220, 220);
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#s{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
+
+#from{
+    margin-top: 20px;
+    margin-left: 2ch;
+}
+
+#mB{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    background-color: darkgrey;
+    justify-content: space-around;
+}
+
+#logo{
+    font-size: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#home{
+    font-size: 20px;
+}
+
+.input{
+    display: flex;
+    flex-direction: row;
+}
+
